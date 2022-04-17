@@ -1,6 +1,5 @@
 # web_project_movie_lover
-Web project 
-
+A MERN stack web design on movie blog
 
 Reference:
 1 - Youtube Tutorial 
